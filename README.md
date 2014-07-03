@@ -2,6 +2,7 @@ ScrapyProjects
 ==============
 Install Scrapy Instruction:
 http://doc.scrapy.org/en/latest/intro/install.html
+
 Download MySql python connector
 
 Configure: SQLAlcademy
