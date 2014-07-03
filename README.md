@@ -9,5 +9,8 @@ http://dev.mysql.com/downloads/
 Configure: SQLAlcademy
 http://docs.sqlalchemy.org/
 
+Resources/Snippet:
+http://snipplr.com/all/tags/scrapy/
+
 Thanks:
 http://newcoder.io/scrape/part-5/
